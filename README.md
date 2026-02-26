@@ -219,3 +219,9 @@ This structure follows recommended RAG prompt patterns (system instructions + fo
 
    - “Who is your CEO?”
    - Expect the fallback message (insufficient knowledge base info).
+  
+     
+
+https://github.com/user-attachments/assets/6cbf161c-ef4e-4af1-848c-da0a537df692
+
+
