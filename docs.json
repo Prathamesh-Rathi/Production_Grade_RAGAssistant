@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Password Reset",
+    "content": "Users can reset their password by going to Settings > Security > Password Reset. A verification email is sent and the reset link is valid for 24 hours."
+  },
+  {
+    "title": "Account Verification",
+    "content": "All new accounts must verify their email address. The verification link expires in 7 days. Check your spam folder if you do not see the email."
+  },
+  {
+    "title": "Subscription Plans",
+    "content": "We offer Basic, Pro, and Enterprise plans. Basic is 9 USD per month, Pro is 29 USD per month and Enterprise is 99 USD per month with custom SLAs."
+  },
+  {
+    "title": "API Rate Limits",
+    "content": "Basic plan has 100 requests per minute, Pro plan has 1000 requests per minute. Enterprise plans can negotiate higher limits. Exceeding limits returns HTTP 429."
+  },
+  {
+    "title": "Support",
+    "content": "For standard support, email support@company.com with a 48 hour response time. Pro and Enterprise customers can use support-priority@company.com for a 4 hour response."
+  },
+  {
+    "title": "Billing",
+    "content": "Update your payment method under Settings > Billing. For invoice questions or failed payments, contact billing@company.com."
+  },
+  {
+    "title": "Data Privacy",
+    "content": "We do not use your conversations to train external models. Logs are stored for 30 days for debugging and then deleted."
+  },
+  {
+    "title": "Feature Requests",
+    "content": "Feature requests can be submitted from the in-app Feedback page. High-impact requests from Pro and Enterprise users are prioritized."
+  }
+]
